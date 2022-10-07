@@ -1,0 +1,11 @@
+{
+    "name": "common-server",
+    "version": "0.1.0",
+    "type": "module",
+    "dependencies": {
+        "@prisma/client": "^4.4.0"
+    },
+    "devDependencies": {
+        "prisma": "^4.4.0"
+    }
+}
